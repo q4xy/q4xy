@@ -39,21 +39,39 @@
 
 # ⚡ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-### Frontend
+### 🌐 Web
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,figma" />
+HTML  
+CSS  
+JavaScript
 
-### Programming
+</td>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs" />
+<td align="center" width="33%">
 
-### Tools
+### 🤖 Robotics
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify" />
+ESP32  
+Arduino  
+Sensors
 
-</div>
+</td>
+
+<td align="center" width="33%">
+
+### 🛠 Tools
+
+VS Code  
+GitHub  
+Netlify
+
+</td>
+</tr>
+</table>
 
 ---
 
