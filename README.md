@@ -190,15 +190,16 @@ Minecraft-inspired web applications and utilities.
 <div align="center">
 
 <a href="https://github.com/q4xy">
-<img src="https://img.shields.io/badge/GitHub-q4xy-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-q4xy-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://guns.lol/q4xy">
 <img src="https://img.shields.io/badge/guns.lol-q4xy-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
-
 ---
 
 <div align="center">
