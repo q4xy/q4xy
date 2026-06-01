@@ -28,10 +28,9 @@
 │ 🌙 Coding • Building • Learning       │
 └───────────────────────────────────────┘
 ```
-
+👋 Hi, I'm Saravanan
 - 🎓 Currently studying in **11th Grade**
-- 💻 Passionate about building cool projects
-- 🤖 Learning Robotics & Embedded Systems
+- 🤖 Learning Robotics
 - 🌐 Exploring Modern Web Development
 - 📡 Experimenting with IoT & ESP32
 
