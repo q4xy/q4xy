@@ -184,7 +184,7 @@ Minecraft-inspired web applications and utilities.
       │
       ├── ⛏️ Minecraft Frontend Developer
       │
-      └── 🚀 Learning Everyday
+      └── 🚀 Learning !
 ```
 
 ---
