@@ -81,12 +81,8 @@ Netlify
 
 | Technology | Progress |
 |------------|----------|
-| React | ████████░░ |
-| Tailwind CSS | █████████░ |
-| JavaScript | █████████░ |
 | Robotics | ███████░░░ |
 | ESP32 | ██████░░░░ |
-| Problem Solving | ████████░░ |
 
 </div>
 
