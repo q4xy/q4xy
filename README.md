@@ -34,7 +34,6 @@
 - 🤖 Learning Robotics & Embedded Systems
 - 🌐 Exploring Modern Web Development
 - 📡 Experimenting with IoT & ESP32
-- 🚀 Always learning something new
 
 ---
 
