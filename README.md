@@ -1,13 +1,11 @@
 <div align="center">
 
-# root@q4xy
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=whoami;security+%2B+dev+%2B+builder;Kali+Linux+%E2%80%A2+Codemagic+%E2%80%A2+Minecraft" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:000000,50:0f2557,100:00d4ff&text=root@q4xy&fontColor=ffffff&fontSize=42&fontAlignY=55&desc=security+%2B+dev+%2B+builder&descAlignY=80&descSize=16"/>
 
 ### Developer · Security Learner · App Builder
 
-![Grade](https://img.shields.io/badge/11th_Grade-Student-00FF41?style=flat-square&labelColor=000000)
-![Focus](https://img.shields.io/badge/Focus-Security_%26_Dev-0d3b1e?style=flat-square&labelColor=000000)
+![Grade](https://img.shields.io/badge/11th_Grade-Student-00d4ff?style=flat-square&labelColor=000000)
+![Focus](https://img.shields.io/badge/Focus-Security_%26_Dev-0f2557?style=flat-square&labelColor=000000)
 
 </div>
 
