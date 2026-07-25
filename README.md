@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0a0a0a,100:7c3aed&text=Saravanan&fontColor=ffffff&fontSize=45&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,35:2d1b4e,70:5b21b6,100:9333ea&text=q4xy&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
 ### Developer · Robotics Enthusiast · IoT Tinkerer
 
@@ -51,4 +51,4 @@ I'm Saravanan, an 11th-grade student who builds things at the intersection of we
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0a0a0a,100:7c3aed"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,35:2d1b4e,70:5b21b6,100:9333ea"/>
