@@ -13,7 +13,7 @@
 
 ## About
 
-I'm Saravanan, an 11th-grade student exploring Kali Linux, trying out ethical hacking tools, and building projects across web and mobile. I use Codemagic to build and ship apps, and I've built Minecraft professional developer .
+I'm Saravanan, an 11th-grade student exploring Kali Linux, trying out ethical hacking tools, and building projects across web and mobile. I use Codemagic to build apps, and I've built Minecraft professional developer .
 
 <br>
 
@@ -37,9 +37,9 @@ I'm Saravanan, an 11th-grade student exploring Kali Linux, trying out ethical ha
 | | |
 |---|---|
 | 💻 **Dev** | Building responsive web projects and trying out Kali Linux tools |
-| 📱 **App Dev** | Building apps using Codemagic CI/CD |
+| 📱 **App Dev** | Building apps deploying the app using Codemagic CI/CD |
 | ⛏️ **MC Dev** | Minecraft-inspired frontends, including Frontend designs |
-| 🌐 **Coming Soon** | Personal portfolio site — launching on Netlify soon |
+| 🌐 **Coming Soon** | Personal portfolio site — launching soon |
 
 <br>
 
