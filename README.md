@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,35:2d1b4e,70:5b21b6,100:9333ea&text=q4xy&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:0f2557,100:00d4ff&text=root@q4xy&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/>
 
 ### Developer · Robotics Enthusiast · IoT Tinkerer
 
-![Grade](https://img.shields.io/badge/11th_Grade-Student-7c3aed?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Web_%26_Robotics-581c87?style=flat-square)
+![Grade](https://img.shields.io/badge/11th_Grade-Student-00d4ff?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Security_%26_Dev-0f2557?style=flat-square)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## About
 
-I'm Saravanan, an 11th-grade student who builds things at the intersection of web development and hardware. Currently deep in ESP32 projects, IoT experiments, and crafting clean, responsive front-ends — including a few Minecraft-inspired tools.
+I'm Saravanan, an 11th-grade student exploring Kali Linux and cybersecurity fundamentals while building projects across web and mobile. I use Codemagic to build and ship apps, and I've built Minecraft professional developer .
 
 <br>
 
@@ -21,12 +21,13 @@ I'm Saravanan, an 11th-grade student who builds things at the intersection of we
 
 <div align="center">
 
+![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-00d4ff?style=for-the-badge&logo=codemagic&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -36,9 +37,9 @@ I'm Saravanan, an 11th-grade student who builds things at the intersection of we
 
 | | |
 |---|---|
-| 🌐 **Web** | Responsive sites, portfolios, and Minecraft-inspired web tools |
-| 🤖 **Robotics** | Automation projects using sensors, relays, and motors |
-| 📡 **IoT** | ESP32-based wireless systems and smart devices |
+| 🔐 **Security** | Learning Kali Linux tools and cybersecurity fundamentals | {gud at camjacking}
+| 📱 **App Dev** | Building apps using Codemagic CI/CD |
+| ⛏️ **Web** | Minecraft-inspired frontends, including Frontend designs |
 
 <br>
 
@@ -51,4 +52,4 @@ I'm Saravanan, an 11th-grade student who builds things at the intersection of we
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,35:2d1b4e,70:5b21b6,100:9333ea"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,50:0f2557,100:00d4ff"/>
