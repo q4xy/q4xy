@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:000000,50:0d3b1e,100:00ff41&text=root@q4xy&fontColor=ffffff&fontSize=42&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:000000,50:3b0d0d,100:ff2d2d&text=root@q4xy&fontColor=ffffff&fontSize=42&fontAlignY=55"/>
 
 ### Developer · Ethical Hacker · IoT Tinkerer
 
-![Grade](https://img.shields.io/badge/11th_Grade-Student-00ff41?style=flat-square&labelColor=000000)
-![Focus](https://img.shields.io/badge/Focus-Dev_%26_Apps-0d3b1e?style=flat-square&labelColor=000000)
+![Grade](https://img.shields.io/badge/11th_Grade-Student-ff2d2d?style=flat-square&labelColor=000000)
+![Focus](https://img.shields.io/badge/Focus-Dev_%26_Apps-3b0d0d?style=flat-square&labelColor=000000)
 
 </div>
 
@@ -21,12 +21,12 @@ I'm Saravanan, an 11th-grade student exploring Kali Linux, trying out ethical ha
 
 <div align="center">
 
-![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Codemagic](https://img.shields.io/badge/Codemagic-00ff41?style=for-the-badge&logo=codemagic&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali_Linux-ff2d2d?style=for-the-badge&logo=kalilinux&logoColor=ff2d2d&labelColor=000000)
+![HTML](https://img.shields.io/badge/HTML5-ff2d2d?style=for-the-badge&logo=html5&logoColor=ff2d2d&labelColor=000000)
+![CSS](https://img.shields.io/badge/CSS3-ff2d2d?style=for-the-badge&logo=css3&logoColor=ff2d2d&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff2d2d?style=for-the-badge&logo=javascript&logoColor=ff2d2d&labelColor=000000)
+![Codemagic](https://img.shields.io/badge/Codemagic-ff2d2d?style=for-the-badge&logo=codemagic&logoColor=ff2d2d&labelColor=000000)
+![VSCode](https://img.shields.io/badge/VS_Code-ff2d2d?style=for-the-badge&logo=visualstudiocode&logoColor=ff2d2d&labelColor=000000)
 
 </div>
 
@@ -47,6 +47,6 @@ I'm Saravanan, an 11th-grade student exploring Kali Linux, trying out ethical ha
 
 <div align="center">
 
-[![guns.lol](https://img.shields.io/badge/guns.lol-q4xy-0d3b1e?style=for-the-badge&logo=googlechrome&logoColor=00ff41&labelColor=000000)](https://guns.lol/q4xy)
+[![guns.lol](https://img.shields.io/badge/guns.lol-q4xy-3b0d0d?style=for-the-badge&logo=googlechrome&logoColor=ff2d2d&labelColor=000000)](https://guns.lol/q4xy)
 
 </div>
