@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:000000,50:3b0d0d,100:ff2d2d&text=root@q4xy&fontColor=ffffff&fontSize=42&fontAlignY=55"/>
 
-### Developer · Ethical Hacker · IoT Tinkerer
+### Developer · Ethical Hacker {beginner} · IoT Tinkerer
 
 ![Grade](https://img.shields.io/badge/11th_Grade-Student-ff2d2d?style=flat-square&labelColor=000000)
 ![Focus](https://img.shields.io/badge/Focus-Dev_%26_Apps-3b0d0d?style=flat-square&labelColor=000000)
