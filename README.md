@@ -46,23 +46,24 @@ I'm **Saravanan** (He/Him), a Grade 11 student at **Alwin International Public S
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/html5/ff2d2d" width="26"/>&nbsp;&nbsp;<b>HTML5</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/css3/ff2d2d" width="26"/>&nbsp;&nbsp;<b>CSS3</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/javascript/ff2d2d" width="26"/>&nbsp;&nbsp;<b>JavaScript</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/python/ff2d2d" width="26"/>&nbsp;&nbsp;<b>Python</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/git/ff2d2d" width="26"/>&nbsp;&nbsp;<b>Git</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5"/>&nbsp;&nbsp;<b>HTML5</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3"/>&nbsp;&nbsp;<b>CSS3</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"/>&nbsp;&nbsp;<b>JavaScript</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python"/>&nbsp;&nbsp;<b>Python</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git"/>&nbsp;&nbsp;<b>Git</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/github/ff2d2d" width="26"/>&nbsp;&nbsp;<b>GitHub</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/vercel/ff2d2d" width="26"/>&nbsp;&nbsp;<b>Vercel</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/codemagic/ff2d2d" width="26"/>&nbsp;&nbsp;<b>Codemagic</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/ff2d2d" width="26"/>&nbsp;&nbsp;<b>VS Code</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/github/ffffff" width="28" height="28" alt="GitHub"/>&nbsp;&nbsp;<b>GitHub</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="28" height="28" alt="Vercel"/>&nbsp;&nbsp;<b>Vercel</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/codemagic" width="28" height="28" alt="Codemagic"/>&nbsp;&nbsp;<b>Codemagic</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code"/>&nbsp;&nbsp;<b>VS Code</b></td>
+<td></td>
 </tr>
 </table>
 
