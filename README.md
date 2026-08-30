@@ -48,40 +48,25 @@ I'm **Saravanan** (He/Him), a Grade 11 student at **Alwin International Public S
 
 ## Tech Stack
 
+<div align="center">
+
 <table>
 <tr>
-<td width="70"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=html5&logoColor=ff2d2d" /></td>
-<td><b>HTML5</b><br/><sub>Structuring and building web pages</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/html5/ff2d2d" width="26"/>&nbsp;&nbsp;<b>HTML5</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/css3/ff2d2d" width="26"/>&nbsp;&nbsp;<b>CSS3</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/javascript/ff2d2d" width="26"/>&nbsp;&nbsp;<b>JavaScript</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/python/ff2d2d" width="26"/>&nbsp;&nbsp;<b>Python</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/git/ff2d2d" width="26"/>&nbsp;&nbsp;<b>Git</b></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=css3&logoColor=ff2d2d" /></td>
-<td><b>CSS3</b><br/><sub>Styling and layout for responsive UI</sub></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=javascript&logoColor=ff2d2d" /></td>
-<td><b>JavaScript</b><br/><sub>Adding logic and interactivity to my projects</sub></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=git&logoColor=ff2d2d" /></td>
-<td><b>Git</b><br/><sub>Version control for every project</sub></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=ff2d2d" /></td>
-<td><b>GitHub</b><br/><sub>Hosting code and collaborating</sub></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=ff2d2d" /></td>
-<td><b>Vercel</b><br/><sub>Deploying and hosting my portfolio</sub></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=codemagic&logoColor=ff2d2d" /></td>
-<td><b>Codemagic</b><br/><sub>CI/CD for building and deploying my apps</sub></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff2d2d" /></td>
-<td><b>VS Code</b><br/><sub>My primary code editor</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/github/ff2d2d" width="26"/>&nbsp;&nbsp;<b>GitHub</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/vercel/ff2d2d" width="26"/>&nbsp;&nbsp;<b>Vercel</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/codemagic/ff2d2d" width="26"/>&nbsp;&nbsp;<b>Codemagic</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/ff2d2d" width="26"/>&nbsp;&nbsp;<b>VS Code</b></td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
