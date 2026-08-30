@@ -82,19 +82,6 @@ I'm **Saravanan** (He/Him), a Grade 11 student at **Alwin International Public S
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=q4xy&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff2d2d&icon_color=ff2d2d&text_color=ffffff" height="165"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=q4xy&theme=onedark&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
-
-</div>
-
-<br>
 
 ## Connect
 
