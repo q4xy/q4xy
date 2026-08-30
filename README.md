@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:000000,50:3b0d0d,100:ff2d2d&text=root@q4xy&fontColor=ffffff&fontSize=46&fontAlignY=55&animation=fadeIn"/>
 
 <a href="https://q4xy7.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2D2D&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Saravanan+%F0%9F%91%8B;16-Year-Old+Developer+%26+IoT+Tinkerer;Kali+Linux+%7C+Ethical+Hacking;Web+%2B+App+%2B+Minecraft+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2D2D&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Saravanan+%F0%9F%91%8B;16-Year-Old+Developer+%26+IoT+Tinkerer;Always+Building+Something+New;Web+%2B+App+%2B+Minecraft+Dev" alt="Typing SVG" />
 </a>
 
 ### Developer · {beginner} · IoT Tinkerer
@@ -19,25 +19,46 @@
 
 ## `whoami`
 
-I'm **Saravanan**, a 16-year-old, 11th-grade student exploring **Kali Linux**, trying out ethical hacking tools, and building projects across web and mobile. I use **Codemagic** to deploy my builds, and I've been a **Minecraft professional developer** for a while now — turning ideas into playable frontends and full builds.
+I'm **Saravanan**, a 16-year-old, 11th-grade student building projects across web and mobile. I use **Codemagic** to deploy my builds, and I've been a **Minecraft professional developer** for a while now — turning ideas into playable frontends and full builds.
 
 <br>
 
 ## Tech Stack
 
-<div align="center">
-
-![KaliLinux](https://img.shields.io/badge/Kali_Linux-ff2d2d?style=for-the-badge&logo=kalilinux&logoColor=ff2d2d&labelColor=000000)
-![HTML](https://img.shields.io/badge/HTML5-ff2d2d?style=for-the-badge&logo=html5&logoColor=ff2d2d&labelColor=000000)
-![CSS](https://img.shields.io/badge/CSS3-ff2d2d?style=for-the-badge&logo=css3&logoColor=ff2d2d&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff2d2d?style=for-the-badge&logo=javascript&logoColor=ff2d2d&labelColor=000000)
-![Codemagic](https://img.shields.io/badge/Codemagic-ff2d2d?style=for-the-badge&logo=codemagic&logoColor=ff2d2d&labelColor=000000)
-![VSCode](https://img.shields.io/badge/VS_Code-ff2d2d?style=for-the-badge&logo=visualstudiocode&logoColor=ff2d2d&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-ff2d2d?style=for-the-badge&logo=git&logoColor=ff2d2d&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-ff2d2d?style=for-the-badge&logo=github&logoColor=ff2d2d&labelColor=000000)
-![Vercel](https://img.shields.io/badge/Vercel-ff2d2d?style=for-the-badge&logo=vercel&logoColor=ff2d2d&labelColor=000000)
-
-</div>
+<table>
+<tr>
+<td width="70"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=html5&logoColor=ff2d2d" /></td>
+<td><b>HTML5</b><br/><sub>Structuring and building web pages</sub></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=css3&logoColor=ff2d2d" /></td>
+<td><b>CSS3</b><br/><sub>Styling and layout for responsive UI</sub></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=javascript&logoColor=ff2d2d" /></td>
+<td><b>JavaScript</b><br/><sub>Adding logic and interactivity to my projects</sub></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=git&logoColor=ff2d2d" /></td>
+<td><b>Git</b><br/><sub>Version control for every project</sub></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=ff2d2d" /></td>
+<td><b>GitHub</b><br/><sub>Hosting code and collaborating</sub></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=ff2d2d" /></td>
+<td><b>Vercel</b><br/><sub>Deploying and hosting my portfolio</sub></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=codemagic&logoColor=ff2d2d" /></td>
+<td><b>Codemagic</b><br/><sub>CI/CD for building and deploying my apps</sub></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff2d2d" /></td>
+<td><b>VS Code</b><br/><sub>My primary code editor</sub></td>
+</tr>
+</table>
 
 <br>
 
@@ -45,7 +66,7 @@ I'm **Saravanan**, a 16-year-old, 11th-grade student exploring **Kali Linux**, t
 
 | | |
 |---|---|
-| 💻 **Dev** | Building responsive web projects and trying out Kali Linux tools |
+| 💻 **Dev** | Building responsive web projects and clean frontend interfaces |
 | 📱 **App Dev** | Building apps and deploying them using Codemagic CI/CD |
 | ⛏️ **MC Dev** | Minecraft-inspired frontends, including custom frontend designs |
 | 🌐 **Portfolio** | Live now at [q4xy7.vercel.app](https://q4xy7.vercel.app) |
