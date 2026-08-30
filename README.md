@@ -3,15 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:000000,50:3b0d0d,100:ff2d2d&text=root@q4xy&fontColor=ffffff&fontSize=46&fontAlignY=55&animation=fadeIn"/>
 
 <a href="https://q4xy7.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2D2D&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Saravanan+%F0%9F%91%8B;16-Year-Old+Developer+%26+IoT+Tinkerer;Always+Building+Something+New;Web+%2B+App+%2B+Minecraft+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D2D&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Saravanan+%F0%9F%91%8B;16-Year-Old+Developer+%26+IoT+Tinkerer;National-Level+Hackathon+Participant;Robotics+%2B+Web+%2B+App+%2B+Minecraft+Dev" alt="Typing SVG" />
 </a>
 
 ### Developer · {beginner} · IoT Tinkerer
 
 ![Age](https://img.shields.io/badge/Age-16-ff2d2d?style=flat-square&labelColor=000000)
-![Grade](https://img.shields.io/badge/11th_Grade-Student-ff2d2d?style=flat-square&labelColor=000000)
+![Grade](https://img.shields.io/badge/Grade_11-Student-ff2d2d?style=flat-square&labelColor=000000)
+![School](https://img.shields.io/badge/Alwin_International_Public_School-3b0d0d?style=flat-square&labelColor=000000&color=3b0d0d)
 ![Focus](https://img.shields.io/badge/Focus-Dev_%26_Apps-3b0d0d?style=flat-square&labelColor=000000)
-![Status](https://img.shields.io/badge/Status-Building_Something-000000?style=flat-square&labelColor=3b0d0d)
 
 </div>
 
@@ -19,7 +19,30 @@
 
 ## `whoami`
 
-I'm **Saravanan**, a 16-year-old, 11th-grade student building projects across web and mobile. I use **Codemagic** to deploy my builds, and I've been a **Minecraft professional developer** for a while now — turning ideas into playable frontends and full builds.
+I'm **Saravanan** (He/Him), a Grade 11 student at **Alwin International Public School** who enjoys turning ideas into real, working systems. I started out with robotics and microcontrollers, then moved into software, web development, AI, and intelligent systems — I like building, experimenting, breaking things apart, and understanding how they work, from hardware prototypes to AI-powered applications. I use **Codemagic** to deploy my builds, and I've been a **Minecraft professional developer** for a while now — turning ideas into playable frontends and full builds. I'm passionate about learning by doing, solving real-world problems, and exploring new technologies.
+
+<br>
+
+## Achievements
+
+<table>
+<tr>
+<td width="60" align="center">🏆</td>
+<td>Received appreciation at a <b>national-level hackathon</b> for school students</td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td>Won an <b>inter-school hackathon</b></td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td>Participated in <b>college-level and national-level hackathons</b> at 15, gaining experience in rapid problem-solving, teamwork, prototyping, and presenting ideas</td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td>Attended <b>multiple robotics expos</b>, exploring new tech and intelligent systems</td>
+</tr>
+</table>
 
 <br>
 
@@ -78,7 +101,10 @@ I'm **Saravanan**, a 16-year-old, 11th-grade student building projects across we
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=q4xy&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff2d2d&icon_color=ff2d2d&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=q4xy&theme=dark&hide_border=true&background=000000&stroke=ff2d2d&ring=ff2d2d&fire=ff2d2d&sideLabels=ffffff&currStreakLabel=ff2d2d" height="165"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=q4xy&theme=onedark&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
 
 </div>
 
