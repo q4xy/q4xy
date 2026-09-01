@@ -6,11 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D2D&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Saravanan+%F0%9F%91%8B;16-Year-Old+Developer+%26+IoT+Tinkerer;National-Level+Hackathon+Participant;Robotics+%2B+Web+%2B+App+%2B+Minecraft+Dev" alt="Typing SVG" />
 </a>
 
-### Developer · {beginner} · IoT Tinkerer
+### Developer  · IoT  · Robotics 
 
 ![Age](https://img.shields.io/badge/Age-16-ff2d2d?style=flat-square&labelColor=000000)
 ![Grade](https://img.shields.io/badge/Grade_11-Student-ff2d2d?style=flat-square&labelColor=000000)
-![School](https://img.shields.io/badge/Alwin_International_Public_School-3b0d0d?style=flat-square&labelColor=000000&color=3b0d0d)
 ![Focus](https://img.shields.io/badge/Focus-Dev_%26_Apps-3b0d0d?style=flat-square&labelColor=000000)
 
 </div>
@@ -19,7 +18,7 @@
 
 ## `whoami`
 
-I'm **Saravanan** (He/Him), a Grade 11 student at **Alwin International Public School** who enjoys turning ideas into real, working systems. I started out with robotics and microcontrollers, then moved into software, web development, AI, and intelligent systems — I like building, experimenting, breaking things apart, and understanding how they work, from hardware prototypes to AI-powered applications. I use **Codemagic** to deploy my builds, and I've been a **Minecraft professional developer** for a while now — turning ideas into playable frontends and full builds. I'm passionate about learning by doing, solving real-world problems, and exploring new technologies.
+I'm **Saravanan** (He/Him), a Grade 11 student at **AIPS** who enjoys turning ideas into real, working systems. I started out with robotics and microcontrollers, then moved into software, web development, AI, and intelligent systems — I like building, experimenting, breaking things apart, and understanding how they work, from hardware prototypes to AI-powered applications. I use **Codemagic** to deploy my builds, and I've been a **Minecraft professional developer** for a while now — turning ideas into playable frontends and full builds. I'm passionate about learning by doing, solving real-world problems, and exploring new technologies.
 
 <br>
 
