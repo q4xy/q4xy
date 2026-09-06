@@ -45,7 +45,7 @@ I'm **Saravanan** (He/Him), a Grade 11 student at **AIPS** who enjoys turning id
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack - [ Developing ]
 
 <div align="center">
 
