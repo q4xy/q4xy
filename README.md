@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://vercel.app"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:000000,50:3b0d0d,100:ff2d2d&text=root@q4xy&fontColor=ffffff&fontSize=46&fontAlignY=55&animation=fadeIn"/>
 
-<a href="https://vercel.app">
-  <img src="https://demolab.com" alt="Typing SVG" />
+<a href="https://q4xy7.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D2D&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Saravanan+%F0%9F%91%8B;16-Year-Old+Developer+%26+IoT+Tinkerer;National-Level+Hackathon+Participant;Robotics+%2B+Web+%2B+App+%2B+Minecraft+Dev" alt="Typing SVG" />
 </a>
 
 ### Developer  · IoT  · Robotics 
 
-![Age](https://shields.io)
-![Grade](https://shields.io)
-![Focus](https://shields.io)
+![Age](https://img.shields.io/badge/Age-16-ff2d2d?style=flat-square&labelColor=000000)
+![Grade](https://img.shields.io/badge/Grade_11-Student-ff2d2d?style=flat-square&labelColor=000000)
+![Focus](https://img.shields.io/badge/Focus-Dev_%26_Apps-3b0d0d?style=flat-square&labelColor=000000)
 
 </div>
 
@@ -45,42 +45,23 @@ I'm **Saravanan** (He/Him), a Grade 11 student at **AIPS** who enjoys turning id
 
 <br>
 
-## 📊 Activity & Contributions
-
-<div align="center">
-
-### GitHub Analytics 📈
-<!-- Live updating metrics matching your profile color scheme -->
-<img src="https://vercel.app" alt="Saravanan's GitHub Stats" width="48%" />
-<img src="https://vercel.app" alt="Top Languages" width="48%" />
-
-<br><br>
-
-### Contribution Table 📅
-<!-- Dynamic layout summarizing calendar year activity metrics natively -->
-<img src="https://vercel.app" alt="Saravanan's Contribution Heatmap" width="100%" />
-
-</div>
-
-<br>
-
 ## 🛠️ Tech Stack - [ Developing ]
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center"><img src="https://githubusercontent.com" width="28" height="28" alt="HTML5"/>&nbsp;&nbsp;<b>HTML5</b></td>
-<td align="center"><img src="https://githubusercontent.com" width="28" height="28" alt="CSS3"/>&nbsp;&nbsp;<b>CSS3</b></td>
-<td align="center"><img src="https://githubusercontent.com" width="28" height="28" alt="JavaScript"/>&nbsp;&nbsp;<b>JavaScript</b></td>
-<td align="center"><img src="https://githubusercontent.com" width="28" height="28" alt="Python"/>&nbsp;&nbsp;<b>Python</b></td>
-<td align="center"><img src="https://githubusercontent.com" width="28" height="28" alt="Git"/>&nbsp;&nbsp;<b>Git</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5"/>&nbsp;&nbsp;<b>HTML5</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3"/>&nbsp;&nbsp;<b>CSS3</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"/>&nbsp;&nbsp;<b>JavaScript</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python"/>&nbsp;&nbsp;<b>Python</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git"/>&nbsp;&nbsp;<b>Git</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://simpleicons.org" width="28" height="28" alt="GitHub"/>&nbsp;&nbsp;<b>GitHub</b></td>
-<td align="center"><img src="https://simpleicons.org" width="28" height="28" alt="Vercel"/>&nbsp;&nbsp;<b>Vercel</b></td>
-<td align="center"><img src="https://simpleicons.org" width="28" height="28" alt="Codemagic"/>&nbsp;&nbsp;<b>Codemagic</b></td>
-<td align="center"><img src="https://githubusercontent.com" width="28" height="28" alt="VS Code"/>&nbsp;&nbsp;<b>VS Code</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/github/ffffff" width="28" height="28" alt="GitHub"/>&nbsp;&nbsp;<b>GitHub</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="28" height="28" alt="Vercel"/>&nbsp;&nbsp;<b>Vercel</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/codemagic" width="28" height="28" alt="Codemagic"/>&nbsp;&nbsp;<b>Codemagic</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code"/>&nbsp;&nbsp;<b>VS Code</b></td>
 <td></td>
 </tr>
 </table>
@@ -96,7 +77,7 @@ I'm **Saravanan** (He/Him), a Grade 11 student at **AIPS** who enjoys turning id
 | 💻 **Dev** | Building responsive web projects and clean frontend interfaces |
 | 📱 **App Dev** | Building apps and deploying them using Codemagic CI/CD |
 | ⛏️ **MC Dev** | Minecraft-inspired frontends, including custom frontend designs |
-| 🌐 **Portfolio** | Live now at [q4xy7.vercel.app](https://vercel.app) |
+| 🌐 **Portfolio** | Live now at [q4xy7.vercel.app](https://q4xy7.vercel.app) |
 
 <br>
 
@@ -105,9 +86,9 @@ I'm **Saravanan** (He/Him), a Grade 11 student at **AIPS** who enjoys turning id
 
 <div align="center">
 
-[![Portfolio](https://shields.io)](https://vercel.app)
-[![GitHub](https://shields.io)](https://github.com)
-[![guns.lol](https://shields.io)](https://guns.lol)
+[![Portfolio](https://img.shields.io/badge/Portfolio-q4xy7.vercel.app-ff2d2d?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://q4xy7.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-q4xy-ff2d2d?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/q4xy)
+[![guns.lol](https://img.shields.io/badge/guns.lol-q4xy-ff2d2d?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://guns.lol/q4xy)
 
 </div>
 
@@ -115,6 +96,6 @@ I'm **Saravanan** (He/Him), a Grade 11 student at **AIPS** who enjoys turning id
 
 <div align="center">
 
-<img src="https://vercel.app"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:ff2d2d,50:3b0d0d,100:000000&section=footer&animation=twinkling"/>
 
 </div>
