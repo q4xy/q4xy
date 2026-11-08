@@ -1,101 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:000000,50:3b0d0d,100:ff2d2d&text=root@q4xy&fontColor=ffffff&fontSize=46&fontAlignY=55&animation=fadeIn"/>
+# `q4xy`
 
-<a href="https://q4xy7.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D2D&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Saravanan+%F0%9F%91%8B;16-Year-Old+Developer+%26+IoT+Tinkerer;National-Level+Hackathon+Participant;Robotics+%2B+Web+%2B+App+%2B+Minecraft+Dev" alt="Typing SVG" />
-</a>
+### DEVELOPER · IoT · ROBOTICS
 
-### Developer  · IoT  · Robotics 
+**Saravanan · Grade 11 student at AIPS**
 
-![Age](https://img.shields.io/badge/Age-16-ff2d2d?style=flat-square&labelColor=000000)
-![Grade](https://img.shields.io/badge/Grade_11-Student-ff2d2d?style=flat-square&labelColor=000000)
-![Focus](https://img.shields.io/badge/Focus-Dev_%26_Apps-3b0d0d?style=flat-square&labelColor=000000)
+[Portfolio](https://q4xy7.vercel.app) · [GitHub](https://github.com/q4xy) · [guns.lol](https://guns.lol/q4xy)
+
+*Building ideas into real, working systems — from microcontrollers to software.*
 
 </div>
 
-<br>
+---
 
-## `whoami`
+## About
 
-I'm **Saravanan** (He/Him), a Grade 11 student at **AIPS** who enjoys turning ideas into real, working systems. I started out with robotics and microcontrollers, then moved into software, web development, AI, and intelligent systems — I like building, experimenting, breaking things apart, and understanding how they work, from hardware prototypes to AI-powered applications. I use **Codemagic** to deploy my builds, and I've been a **Minecraft professional developer** for a while now — turning ideas into playable frontends and full builds. I'm passionate about learning by doing, solving real-world problems, and exploring new technologies.
+I'm Saravanan (he/him), a Grade 11 student at AIPS. I started with robotics and microcontrollers, then moved into software, web development, AI, and intelligent systems. I like building, experimenting, and understanding how things work, from hardware prototypes to AI-powered applications.
 
-<br>
+I use Codemagic to deploy my builds and have experience developing Minecraft projects, including playable frontends and full builds. I learn by doing, solve real-world problems, and enjoy exploring new technologies.
 
 ## Achievements
 
-<table>
-<tr>
-<td width="60" align="center">🏆</td>
-<td>Received appreciation at a <b>national-level hackathon</b> for school students</td>
-</tr>
-<tr>
-<td align="center">🥇</td>
-<td>Won an <b>inter-school hackathon</b></td>
-</tr>
-<tr>
-<td align="center">🚀</td>
-<td>Participated in <b>college-level and national-level hackathons</b> at 15, gaining experience in rapid problem-solving, teamwork, prototyping, and presenting ideas</td>
-</tr>
-<tr>
-<td align="center">🤖</td>
-<td>Attended <b>multiple robotics expos</b>, exploring new tech and intelligent systems</td>
-</tr>
-</table>
+- 🏆 Received appreciation at a national-level hackathon for school students.
+- 🥇 Won an inter-school hackathon.
+- 🚀 Participated in college-level and national-level hackathons at 15, building experience in rapid problem-solving, teamwork, prototyping, and presenting ideas.
+- 🤖 Attended multiple robotics expos focused on new technology and intelligent systems.
 
-<br>
+## What I'm building
 
-## 🛠️ Tech Stack - [ Developing ]
+| Area | Focus |
+| --- | --- |
+| 💻 Web | Responsive web projects and clean frontend interfaces |
+| 📱 Apps | App development and deployment with Codemagic CI/CD |
+| ⛏️ Minecraft | Minecraft-inspired frontend designs and custom builds |
+| 🤖 Robotics & IoT | Hardware prototypes, microcontrollers, and intelligent systems |
+| 🌐 Portfolio | [q4xy7.vercel.app](https://q4xy7.vercel.app) |
+
+## Tech stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5"/>&nbsp;&nbsp;<b>HTML5</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3"/>&nbsp;&nbsp;<b>CSS3</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"/>&nbsp;&nbsp;<b>JavaScript</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python"/>&nbsp;&nbsp;<b>Python</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git"/>&nbsp;&nbsp;<b>Git</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/github/ffffff" width="28" height="28" alt="GitHub"/>&nbsp;&nbsp;<b>GitHub</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="28" height="28" alt="Vercel"/>&nbsp;&nbsp;<b>Vercel</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/codemagic" width="28" height="28" alt="Codemagic"/>&nbsp;&nbsp;<b>Codemagic</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code"/>&nbsp;&nbsp;<b>VS Code</b></td>
-<td></td>
-</tr>
-</table>
+**Currently developing with**
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![Codemagic](https://img.shields.io/badge/Codemagic-0d1117?style=for-the-badge&logo=codemagic&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
-<br>
+## Featured repositories
 
-## What I'm Building
+| Project | What it is |
+| --- | --- |
+| [GeoSheild](https://github.com/q4xy/GeoSheild) | Public project by Team Citadel |
+| [citadel-cypher](https://github.com/q4xy/citadel-cypher) | Public project |
+| [4xy](https://github.com/q4xy/4xy) | Minecraft-inspired frontend project; repository is a fork of TitanBot |
+| [q4xy](https://github.com/q4xy/q4xy) | This GitHub profile repository |
 
-| | |
-|---|---|
-| 💻 **Dev** | Building responsive web projects and clean frontend interfaces |
-| 📱 **App Dev** | Building apps and deploying them using Codemagic CI/CD |
-| ⛏️ **MC Dev** | Minecraft-inspired frontends, including custom frontend designs |
-| 🌐 **Portfolio** | Live now at [q4xy7.vercel.app](https://q4xy7.vercel.app) |
+> Repository descriptions and activity can change. Visit each project for the current details.
 
-<br>
+## GitHub at a glance
 
+<div align="center">
+
+<a href="https://github.com/q4xy">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=q4xy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=7ee787&include_all_commits=true" alt="GitHub statistics for q4xy" />
+</a>
+<a href="https://github.com/q4xy">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q4xy&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Most used languages across q4xy repositories" />
+</a>
+
+<br />
+
+<a href="https://github.com/q4xy">
+  <img src="https://streak-stats.demolab.com?user=q4xy&hide_border=true&background=0D1117&ring=39D353&fire=7EE787&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak for q4xy" />
+</a>
+
+</div>
+
+## Contribution activity
+
+<div align="center">
+
+[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=q4xy&bg_color=0d1117&color=c9d1d9&line=238636&point=7ee787&area=true&area_color=238636&hide_border=true)](https://github.com/q4xy)
+
+</div>
+
+## Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/q4xy/q4xy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/q4xy/q4xy/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving across and eating the contribution grid" src="https://raw.githubusercontent.com/q4xy/q4xy/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+The snake animation is generated from the GitHub contribution history and refreshes automatically through the workflow in `.github/workflows/profile-activity.yml`.
 
 ## Connect
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-q4xy7.vercel.app-ff2d2d?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://q4xy7.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-q4xy-ff2d2d?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/q4xy)
-[![guns.lol](https://img.shields.io/badge/guns.lol-q4xy-ff2d2d?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://guns.lol/q4xy)
-
-</div>
-
-<br>
+- 🌐 Portfolio: [q4xy7.vercel.app](https://q4xy7.vercel.app)
+- 🧑‍💻 GitHub: [@q4xy](https://github.com/q4xy)
+- 🔗 More links: [guns.lol/q4xy](https://guns.lol/q4xy)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:ff2d2d,50:3b0d0d,100:000000&section=footer&animation=twinkling"/>
+*Thanks for stopping by — feel free to explore my projects.*
 
 </div>
