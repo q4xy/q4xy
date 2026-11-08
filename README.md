@@ -49,20 +49,16 @@ I'm **Saravanan** (He/Him), a Grade 11 student at **AIPS** who enjoys turning id
 
 <div align="center">
 
-### GitHub Contribution Snake 🐍
-<!-- The animation generating eating dots based on your GitHub green square history -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Contribution Grid Snake" src="https://githubusercontent.com" width="100%">
-</picture>
+### GitHub Analytics 📈
+<!-- Live updating metrics matching your profile color scheme -->
+<img src="https://vercel.app" alt="Saravanan's GitHub Stats" width="48%" />
+<img src="https://vercel.app" alt="Top Languages" width="48%" />
 
 <br><br>
 
-### Statistics Table 📈
-<!-- Dynamic live updating card matching your custom theme coloring profile layout -->
-<img src="https://vercel.app" alt="Saravanan's GitHub Stats" width="48%" />
-<img src="https://vercel.app" alt="Top Languages" width="48%" />
+### Contribution Table 📅
+<!-- Dynamic layout summarizing calendar year activity metrics natively -->
+<img src="https://vercel.app" alt="Saravanan's Contribution Heatmap" width="100%" />
 
 </div>
 
